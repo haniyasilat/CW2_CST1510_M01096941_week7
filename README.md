@@ -1,4 +1,4 @@
-Student Name: Haniya Nadeem
+Student Name: Haniya Silat
 Student ID: M01096941
 Course: CST1510 -CW2 - Multi-Domain Intelligence Platform
 ## Project Description
